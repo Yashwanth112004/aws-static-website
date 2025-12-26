@@ -6,7 +6,7 @@ The site includes a subtle animated background for a modern look and is hosted o
 ---
 
 ## 🚀 Live Website
-👉 [https://<your-s3-bucket-or-cloudfront-url>](https://aws-static-website-11187.s3.us-east-1.amazonaws.com/index.html)
+👉 [Access Here](https://aws-static-website-11187.s3.us-east-1.amazonaws.com/index.html)
 
 ---
 
