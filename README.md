@@ -1,0 +1,58 @@
+# My Blog Links Website
+
+A simple and responsive static website that displays my blog links with images in a clean card layout.  
+The site includes a subtle animated background for a modern look and is hosted on **AWS S3**.
+
+---
+
+## 🚀 Live Website
+👉 https://<your-s3-bucket-or-cloudfront-url>
+
+---
+
+## 🛠 Tech Stack
+- HTML5
+- CSS3 (Animated background)
+- JavaScript
+- AWS S3 (Static Website Hosting)
+
+---
+
+## 📁 Project Structure
+blog-site/
+│── index.html
+│── style.css
+│── script.js
+│── images/
+│ ├── aws-icon.ico
+│ ├── blog1.png
+│ ├── blog2.png
+│ └── blog3.png
+
+---
+
+## ✨ Features
+- Responsive blog card layout
+- Animated background effects
+- Favicon support
+- Lightweight & fast
+- Fully static (no backend)
+
+---
+
+## ☁️ Hosting
+This website is hosted using **AWS S3 Static Website Hosting**:
+1. Uploaded all files to an S3 bucket
+2. Enabled static website hosting
+3. Configured public access
+4. Accessed via S3 website endpoint (or CloudFront)
+
+---
+
+## 👤 Author
+**Puligilla Yashwanth**
+
+---
+
+## 📄 License
+This project is open-source and free to use.
